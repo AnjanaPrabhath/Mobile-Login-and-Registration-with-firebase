@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017135954136",
+    "project_id": "mobile-login-and-registration",
+    "storage_bucket": "mobile-login-and-registration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017135954136:android:ee82b82266c747b5547fad",
+        "android_client_info": {
+          "package_name": "com.example.loginregistrationfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqlOdqlk6-jSvkDcwRS99wRYX4EynBfs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

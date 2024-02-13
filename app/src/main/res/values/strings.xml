@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Registration firebase</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_your_email_address">enter your email address</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="register">REGISTER</string>
+    <string name="login_now">login now</string>
+    <string name="if_you_already_have_an_account">if you already have an account</string>
+    <string name="if_you_are_not_registered_yet">if you are not registered yet</string>
+    <string name="register_now">register now</string>
+</resources>
