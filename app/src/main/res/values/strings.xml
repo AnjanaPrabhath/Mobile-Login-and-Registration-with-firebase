@@ -8,4 +8,6 @@
     <string name="if_you_already_have_an_account">if you already have an account</string>
     <string name="if_you_are_not_registered_yet">if you are not registered yet</string>
     <string name="register_now">register now</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="log_out">Log Out</string>
 </resources>
